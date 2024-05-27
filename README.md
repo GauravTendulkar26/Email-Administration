@@ -6,3 +6,5 @@ generate an email with the following syntax: {firstName.LastName@departmentName.
 Determine the department {sales , development, accounting} if none leave blank space 
 generate random password 
 
+language used : Core Java , oop concept
+
